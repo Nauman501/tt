@@ -2,7 +2,7 @@
 
 // Upgrade NOTE: replaced '_Projector' with 'unity_Projector'
 // Upgrade NOTE: replaced '_ProjectorClip' with 'unity_ProjectorClip'
-//nauman commit
+//nauman commitsssss
 
 Shader "Projector/Multiply" {
 	Properties {
